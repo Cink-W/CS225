@@ -1,0 +1,11 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "optional": "cpp",
+        "memory": "cpp",
+        "numeric": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp"
+    }
+}

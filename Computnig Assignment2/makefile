@@ -1,0 +1,2 @@
+test: main.cpp  centralqueue.cpp centralqueue.h   queue.cpp queue.h  deadline.cpp deadline.h  treat.h treat.cpp registry.cpp registry.h creattest.cpp creattest.h BPlus_tree.h BPlus_tree.cpp  BP_Node.h BP_Node.cpp btree.h alist.h
+	g++ main.cpp  centralqueue.cpp centralqueue.h   queue.cpp queue.h  deadline.cpp deadline.h  treat.h treat.cpp registry.cpp registry.h creattest.cpp creattest.h BPlus_tree.h BPlus_tree.cpp BP_Node.h BP_Node.cpp btree.h alist.h -g -o start

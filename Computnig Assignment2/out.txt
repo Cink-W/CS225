@@ -1,0 +1,2034 @@
+please tape the month needed to test
+please tape the maximum possible number of regestrations
+Please choose how to order the report
+ 0 for name, 1 for profession category or 2 for age group
+3
+61
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,1,0
+3
+26
+1
+1
+success in reading 
+ success update
+ready to delete
+62
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+204
+1
+1
+success in reading 
+ success update
+ready to delete
+134
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,1,1
+3
+118
+1
+1
+success in reading 
+ success update
+ready to delete
+205
+1
+1
+success in reading 
+ success update
+ready to delete
+52
+1
+1
+success in reading 
+ success update
+ready to delete
+204
+1
+1
+success in reading 
+ success update
+ready to delete
+158
+1
+1
+success in reading 
+ success update
+ready to delete
+85
+1
+1
+success in reading 
+ success update
+ready to delete
+133
+1
+1
+success in reading 
+ success update
+ready to delete
+134
+1
+1
+success in reading 
+ success update
+ready to delete
+59
+1
+1
+success in reading 
+ success update
+ready to delete
+169
+1
+1
+success in reading 
+ success update
+ready to delete
+46
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+198
+1
+1
+success in reading 
+ success update
+ready to delete
+72
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,2,0
+3
+87
+1
+1
+success in reading 
+ success update
+ready to delete
+75
+1
+1
+success in reading 
+ success update
+ready to delete
+179
+1
+1
+success in reading 
+ success update
+ready to delete
+66
+1
+1
+success in reading 
+ success update
+ready to delete
+1
+1
+1
+success in reading 
+ success update
+ready to delete
+29
+1
+1
+success in reading 
+ success update
+ready to delete
+63
+1
+1
+success in reading 
+ success update
+ready to delete
+74
+1
+1
+success in reading 
+ success update
+ready to delete
+25
+1
+1
+success in reading 
+ success update
+ready to delete
+52
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,2,1
+3
+92
+1
+1
+success in reading 
+ success update
+ready to delete
+81
+1
+1
+success in reading 
+ success update
+ready to delete
+64
+1
+1
+success in reading 
+ success update
+ready to delete
+209
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,3,0
+3
+85
+1
+1
+success in reading 
+ success update
+ready to delete
+80
+1
+1
+success in reading 
+ success update
+ready to delete
+65
+1
+1
+success in reading 
+ success update
+ready to delete
+108
+1
+1
+success in reading 
+ success update
+ready to delete
+98
+1
+1
+success in reading 
+ success update
+ready to delete
+19
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,3,1
+3
+215
+1
+1
+success in reading 
+ success update
+ready to delete
+159
+1
+1
+success in reading 
+ success update
+ready to delete
+137
+1
+1
+success in reading 
+ success update
+ready to delete
+107
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+186
+1
+1
+success in reading 
+ success update
+ready to delete
+36
+1
+1
+success in reading 
+ success update
+ready to delete
+172
+1
+1
+success in reading 
+ success update
+ready to delete
+203
+1
+1
+success in reading 
+ success update
+ready to delete
+201
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,4,0
+3
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+success out
+treat the one with ddl
+1,4,1
+3
+103
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,5,0
+3
+118
+1
+1
+success in reading 
+ success update
+ready to delete
+70
+1
+1
+success in reading 
+ success update
+ready to delete
+217
+1
+1
+success in reading 
+ success update
+ready to delete
+91
+1
+1
+success in reading 
+ success update
+ready to delete
+206
+1
+1
+success in reading 
+ success update
+ready to delete
+62
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,5,1
+3
+90
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+23
+1
+1
+success in reading 
+ success update
+ready to delete
+126
+1
+1
+success in reading 
+ success update
+ready to delete
+103
+1
+1
+success in reading 
+ success update
+ready to delete
+143
+1
+1
+success in reading 
+ success update
+ready to delete
+79
+1
+1
+success in reading 
+ success update
+ready to delete
+190
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+34
+1
+1
+success in reading 
+ success update
+ready to delete
+222
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,6,0
+3
+71
+1
+1
+success in reading 
+ success update
+ready to delete
+52
+1
+1
+success in reading 
+ success update
+ready to delete
+137
+1
+1
+success in reading 
+ success update
+ready to delete
+10
+1
+1
+success in reading 
+ success update
+ready to delete
+89
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,6,1
+3
+89
+1
+1
+success in reading 
+ success update
+ready to delete
+64
+1
+1
+success in reading 
+ success update
+ready to delete
+127
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,7,0
+3
+121
+1
+1
+success in reading 
+ success update
+ready to delete
+200
+1
+1
+success in reading 
+ success update
+ready to delete
+22
+1
+1
+success in reading 
+ success update
+ready to delete
+66
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+224
+1
+1
+success in reading 
+ success update
+ready to delete
+222
+1
+1
+success in reading 
+ success update
+ready to delete
+120
+1
+1
+success in reading 
+ success update
+ready to delete
+191
+1
+1
+success in reading 
+ success update
+ready to delete
+143
+1
+1
+success in reading 
+ success update
+ready to delete
+83
+1
+1
+success in reading 
+ success update
+ready to delete
+171
+1
+1
+success in reading 
+ success update
+ready to delete
+73
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,7,1
+A week past!
+3
+11
+1
+1
+success in reading 
+ success update
+ready to delete
+22
+1
+1
+success in reading 
+ success update
+ready to delete
+209
+1
+1
+success in reading 
+ success update
+ready to delete
+177
+1
+1
+success in reading 
+ success update
+ready to delete
+58
+1
+1
+success in reading 
+ success update
+ready to delete
+31
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+11
+1
+1
+success in reading 
+ success update
+ready to delete
+165
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,8,0
+3
+31
+1
+1
+success in reading 
+ success update
+ready to delete
+161
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,8,1
+3
+153
+1
+1
+success in reading 
+ success update
+ready to delete
+213
+1
+1
+success in reading 
+ success update
+ready to delete
+9
+1
+1
+success in reading 
+ success update
+ready to delete
+68
+1
+1
+success in reading 
+ success update
+ready to delete
+202
+1
+1
+success in reading 
+ success update
+ready to delete
+51
+1
+1
+success in reading 
+ success update
+ready to delete
+37
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,9,0
+3
+141
+1
+1
+success in reading 
+ success update
+ready to delete
+135
+1
+1
+success in reading 
+ success update
+ready to delete
+196
+1
+1
+success in reading 
+ success update
+ready to delete
+127
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+11
+1
+1
+success in reading 
+ success update
+ready to delete
+88
+1
+1
+success in reading 
+ success update
+ready to delete
+103
+1
+1
+success in reading 
+ success update
+ready to delete
+175
+1
+1
+success in reading 
+ success update
+ready to delete
+205
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+88
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,9,1
+3
+134
+1
+1
+success in reading 
+ success update
+ready to delete
+122
+1
+1
+success in reading 
+ success update
+ready to delete
+200
+1
+1
+success in reading 
+ success update
+ready to delete
+76
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+74
+1
+1
+success in reading 
+ success update
+ready to delete
+218
+1
+1
+success in reading 
+ success update
+ready to delete
+87
+1
+1
+success in reading 
+ success update
+ready to delete
+11
+1
+1
+success in reading 
+ success update
+ready to delete
+104
+1
+1
+success in reading 
+ success update
+ready to delete
+161
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,10,0
+3
+32
+1
+1
+success in reading 
+ success update
+ready to delete
+45
+1
+1
+success in reading 
+ success update
+ready to delete
+109
+1
+1
+success in reading 
+ success update
+ready to delete
+137
+1
+1
+success in reading 
+ success update
+ready to delete
+146
+1
+1
+success in reading 
+ success update
+ready to delete
+212
+1
+1
+success in reading 
+ success update
+ready to delete
+177
+1
+1
+success in reading 
+ success update
+ready to delete
+150
+1
+1
+success in reading 
+ success update
+ready to delete
+214
+1
+1
+success in reading 
+ success update
+ready to delete
+156
+1
+1
+success in reading 
+ success update
+ready to delete
+57
+1
+1
+success in reading 
+ success update
+ready to delete
+180
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,10,1
+3
+80
+1
+1
+success in reading 
+ success update
+ready to delete
+193
+1
+1
+success in reading 
+ success update
+ready to delete
+34
+1
+1
+success in reading 
+ success update
+ready to delete
+116
+1
+1
+success in reading 
+ success update
+ready to delete
+2
+1
+1
+success in reading 
+ success update
+ready to delete
+101
+1
+1
+success in reading 
+ success update
+ready to delete
+123
+1
+1
+success in reading 
+ success update
+ready to delete
+62
+1
+1
+success in reading 
+ success update
+ready to delete
+44
+1
+1
+success in reading 
+ success update
+ready to delete
+112
+1
+1
+success in reading 
+ success update
+ready to delete
+77
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,11,0
+3
+201
+1
+1
+success in reading 
+ success update
+ready to delete
+136
+1
+1
+success in reading 
+ success update
+ready to delete
+65
+1
+1
+success in reading 
+ success update
+ready to delete
+48
+1
+1
+success in reading 
+ success update
+ready to delete
+159
+1
+1
+success in reading 
+ success update
+ready to delete
+137
+1
+1
+success in reading 
+ success update
+ready to delete
+8
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,11,1
+3
+168
+1
+1
+success in reading 
+ success update
+ready to delete
+32
+1
+1
+success in reading 
+ success update
+ready to delete
+88
+1
+1
+success in reading 
+ success update
+ready to delete
+216
+1
+1
+success in reading 
+ success update
+ready to delete
+130
+1
+1
+success in reading 
+ success update
+ready to delete
+216
+1
+1
+success in reading 
+ success update
+ready to delete
+145
+1
+1
+success in reading 
+ success update
+ready to delete
+0
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,12,0
+3
+211
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,12,1
+3
+12
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,13,0
+3
+191
+1
+1
+success in reading 
+ success update
+ready to delete
+33
+1
+1
+success in reading 
+ success update
+ready to delete
+169
+1
+1
+success in reading 
+ success update
+ready to delete
+207
+1
+1
+success in reading 
+ success update
+ready to delete
+127
+1
+1
+success in reading 
+ success update
+ready to delete
+207
+1
+1
+success in reading 
+ success update
+ready to delete
+161
+1
+1
+success in reading 
+ success update
+ready to delete
+161
+1
+1
+success in reading 
+ success update
+ready to delete
+156
+1
+1
+success in reading 
+ success update
+ready to delete
+102
+1
+1
+success in reading 
+ success update
+ready to delete
+158
+1
+1
+success in reading 
+ success update
+ready to delete
+205
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,13,1
+3
+162
+1
+1
+success in reading 
+ success update
+ready to delete
+36
+1
+1
+success in reading 
+ success update
+ready to delete
+71
+1
+1
+success in reading 
+ success update
+ready to delete
+35
+1
+1
+success in reading 
+ success update
+ready to delete
+196
+1
+1
+success in reading 
+ success update
+ready to delete
+33
+1
+1
+success in reading 
+ success update
+ready to delete
+180
+1
+1
+success in reading 
+ success update
+ready to delete
+109
+1
+1
+success in reading 
+ success update
+ready to delete
+69
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,14,0
+3
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+success out
+treat the one with ddl
+1,14,1
+A week past!
+3
+199
+1
+1
+success in reading 
+ success update
+ready to delete
+10
+1
+1
+success in reading 
+ success update
+ready to delete
+188
+1
+1
+success in reading 
+ success update
+ready to delete
+201
+1
+1
+success in reading 
+ success update
+ready to delete
+85
+1
+1
+success in reading 
+ success update
+ready to delete
+219
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,15,0
+3
+184
+1
+1
+success in reading 
+ success update
+success new deadline
+success new add1
+ready to delete
+171
+1
+1
+success in reading 
+ success update
+ready to delete
+157
+1
+1
+success in reading 
+ success update
+ready to delete
+212
+1
+1
+success in reading 
+ success update
+ready to delete
+76
+1
+1
+success in reading 
+ success update
+ready to delete
+1
+1
+1
+success in reading 
+ success update
+ready to delete
+78
+1
+1
+success in reading 
+ success update
+ready to delete
+28
+1
+1
+success in reading 
+ success update
+ready to delete
+166
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+treat the one with ddl
+1,15,1
+3
+90
+1
+1
+success in reading 
+ success update
+ready to delete
+196
+1
+1
+success in reading 
+ success update
+ready to delete
+13
+1
+1
+success in reading 
+ success update
+ready to delete
+58
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+success out
+success 2
+success 2d
+treat the one with ddl
+1,16,0
+3
+8
+1
+1
+success in reading 
+ success update
+ready to delete
+45
+1
+1
+success in reading 
+ success update
+ready to delete
+167
+1
+1
+success in reading 
+ success update
+ready to delete
+92
+1
+1
+success in reading 
+ success update
+ready to delete
+69
+1
+1
+success in reading 
+ success update
+ready to delete
+15
+1
+1
+success in reading 
+ success update
+ready to delete
+212
+1
+1
+success in reading 
+ success update
+ready to delete
+90
+1
+1
+success in reading 
+ success update
+ready to delete
+155
+1
+1
+success in reading 
+ success update
+ready to delete
+12
+1
+1
+success in reading 
+ success update
+ready to delete
+181
+1
+1
+success in reading 
+ success update
+ready to delete
+success reading file 1
+no withdraw today
+success reading file withdraw
+ success in put wait list into central queue
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+Someone go to the waiting list
+someone go to cental queue
+local queue to hash
+someone go to cental queue
+local queue to hash
+success out
+success 2
